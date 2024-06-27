@@ -1,6 +1,7 @@
 # ewallet_psytech
 
 A new Flutter project.
+this IS project manager of ebanking
 
 ## Getting Started
 
